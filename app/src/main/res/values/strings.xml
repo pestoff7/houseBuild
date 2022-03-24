@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Constructor</string>
+    <string name="door_right">Дверь справа</string>
+    <string name="door_left">Дверь слева</string>
+    <string name="window_on_the_roof">Окно на крыше</string>
+    <string name="num_stages">Этажность</string>
+</resources>
